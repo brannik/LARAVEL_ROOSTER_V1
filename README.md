@@ -79,5 +79,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Testing the system
 #### Login email -> tester@gmail.com -> moderator -> password 11235813
 #### Login email -> tester2@gmail.com -> VIP User -> password 11235813
-Login email -> tester3@gmail.com -> Player -> password 11235813
-Login email -> tester4@gmail.com -> Unverified -> password 11235813
+#### Login email -> tester3@gmail.com -> Player -> password 11235813
+#### Login email -> tester4@gmail.com -> Unverified -> password 11235813
