@@ -1,0 +1,10 @@
+.page-link {
+  background-color: crimson;
+}
+
+.page-item.active .page-link {
+  z-index: 1;
+  color: #fff;
+  background-color: green;
+  border-color: green;
+}/*# sourceMappingURL=home.css.map */

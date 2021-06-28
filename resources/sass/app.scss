@@ -1,0 +1,33 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+body::-webkit-scrollbar{
+  display: none;
+}
+body {
+  background-image: url("/images/bg2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  padding: 0px;
+  margin: 0px;
+}
+
+.carousel-inner{
+  height: 220px;
+}
+.carousel-inner,img{
+  object-fit: contain;
+}
+.footer{
+  text-align: center;
+  font-size: smaller;
+}
+

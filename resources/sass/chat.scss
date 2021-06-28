@@ -1,0 +1,11 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+#gchat{
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    height:100%;
+    border: 1px solid #333333;
+}
+#gchat::-webkit-scrollbar{
+    display: none;
+    overflow: hidden;
+}

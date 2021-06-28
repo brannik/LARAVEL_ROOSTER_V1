@@ -1,0 +1,23 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+#adm_container {
+	width: 85%;
+	height: auto;
+	
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 150px;
+	right: 0;
+  	
+	margin: auto;
+    overflow-y: scroll;
+}
+#adm_container::-webkit-scrollbar{
+	display: none;
+  }
+#adm_nav{
+	overflow-y: scroll;
+}
+#adm_nav::-webkit-scrollbar{
+	display: none;
+  }

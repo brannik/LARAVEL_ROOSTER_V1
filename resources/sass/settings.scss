@@ -1,0 +1,11 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+#settings_container{
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    height:100%;
+
+}
+#settings_container::-webkit-scrollbar{
+    display: none;
+}

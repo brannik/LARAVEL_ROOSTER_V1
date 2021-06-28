@@ -1,0 +1,10 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+.page-link{
+    background-color: crimson;
+}
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: green; 
+    border-color: green; 
+}
